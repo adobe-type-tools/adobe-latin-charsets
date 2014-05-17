@@ -14,49 +14,27 @@ AL-2 is the most basic OpenType character set for Adobe fonts, the minimum for *
 Language coverage is the same as Adobe Latin 1; the added characters are various symbols:
 
 * ℓ uni2113 (litre)
-
 * ℮ estimated
-
 * the 14 Mac *symbol substitution* characters
-
 	* Ω uni2126 (Ohm/Omega)
-
 	* π pi
-
 	* ∂ partialdiff
-
 	* ∆ uni2206 (Delta)
-
 	* ∏ product
-
 	* ∑ summation
-
 	* √ radical
-
 	* ∞ infinity
-
 	* ∫ integral
-
 	* ≈ approxequal
-
 	* ≠ notequal
-
 	* ≤ lessequal
-
 	* ≥ greaterequal
-
 	* ◊ lozenge
-
 * and 4 characters using duplicated glyphs from other characters
-
 	* uni00A0 from space
-
 	* uni00AD from hyphen
-
 	* uni02C9 from macron
-
 	* uni2215 from fraction
-
 	* uni2219 from periodcentered
 
 
