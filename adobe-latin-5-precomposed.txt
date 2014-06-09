@@ -1211,8 +1211,13 @@ Unicode	Character	Glyph name	Character name	Added	Notes
 2C71	&#x2C71;	uni2C71	LATIN SMALL LETTER V WITH RIGHT HOOK	{bgcolor:blue}&bull;{bgcolor}	
 2C72	&#x2C72;	uni2C72	LATIN CAPITAL LETTER W WITH HOOK	{bgcolor:blue}&bull;{bgcolor}	
 2C73	&#x2C73;	uni2C73	LATIN SMALL LETTER W WITH HOOK	{bgcolor:blue}&bull;{bgcolor}	
+A789	&#xA789;	uniA789	MODIFIER LETTER COLON	{bgcolor:blue}&bull;{bgcolor}	
+A78A	&#xA78A;	uniA78A	MODIFIER LETTER SHORT EQUALS SIGN	{bgcolor:blue}&bull;{bgcolor}	
+A78B	&#xA78B;	uniA78B	LATIN CAPITAL LETTER SALTILLO	{bgcolor:blue}&bull;{bgcolor}	
+A78C	&#xA78C;	uniA78C	LATIN SMALL LETTER SALTILLO	{bgcolor:blue}&bull;{bgcolor}	
 A78D	&#xA78D;	uniA78D	LATIN CAPITAL LETTER TURNED H	{bgcolor:blue}&bull;{bgcolor}	
 A78E	&#xA78E;	uniA78E	LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT	{bgcolor:blue}&bull;{bgcolor}
+A7AA	&#xA7AA;	uniA7AA	LATIN CAPITAL LETTER H WITH HOOK	{bgcolor:blue}&bull;{bgcolor}	
 FB01	&#xFB01;	fi	LATIN SMALL LIGATURE FI		
 FB02	&#xFB02;	fl	LATIN SMALL LIGATURE FL		
 FFFD	&#xFFFD;	uniFFFD	REPLACEMENT CHARACTER	{bgcolor:blue}&bull;{bgcolor}	
