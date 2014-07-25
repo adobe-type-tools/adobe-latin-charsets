@@ -231,7 +231,6 @@ Unicode(s)	Character(s)	Glyph name	Character name(s)	Added
 0078,030C	&#x0078;&#x030C;	n/a	LATIN SMALL LETTER X , COMBINING CARON	{bgcolor:blue}&bull;{bgcolor}
 0078,0323	&#x0078;&#x0323;	n/a	LATIN SMALL LETTER X , COMBINING DOT BELOW	{bgcolor:blue}&bull;{bgcolor}
 0078,032F	&#x0078;&#x032F;	n/a	LATIN SMALL LETTER X , COMBINING INVERTED BREVE BELOW	{bgcolor:blue}&bull;{bgcolor}
-0079,030A	&#x0079;&#x030A;	n/a	LATIN SMALL LETTER Y , COMBINING RING ABOVE	{bgcolor:blue}&bull;{bgcolor}
 0079,030C	&#x0079;&#x030C;	n/a	LATIN SMALL LETTER Y , COMBINING CARON	{bgcolor:blue}&bull;{bgcolor}
 007A,032A	&#x007A;&#x032A;	n/a	LATIN SMALL LETTER Z , COMBINING BRIDGE BELOW	{bgcolor:blue}&bull;{bgcolor}
 00D8,0300	&#x00D8;&#x0300;	n/a	LATIN CAPITAL LETTER O WITH STROKE , COMBINING GRAVE ACCENT	{bgcolor:blue}&bull;{bgcolor}
