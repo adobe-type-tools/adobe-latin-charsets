@@ -1224,6 +1224,13 @@ A7AC	&#xA7AC;	uniA7AC	LATIN CAPITAL LETTER SCRIPT G	{bgcolor:blue}&bull;{bgcolor
 A7AD	&#xA7AD;	uniA7AD	LATIN CAPITAL LETTER L WITH BELT	{bgcolor:blue}&bull;{bgcolor}	
 A7B0	&#xA7B0;	uniA7B0	LATIN CAPITAL LETTER TURNED K	{bgcolor:blue}&bull;{bgcolor}	
 A7B1	&#xA7B1;	uniA7B1	LATIN CAPITAL LETTER TURNED T	{bgcolor:blue}&bull;{bgcolor}	
+A7B2	&#xA7B2;	uniA7B2	LATIN CAPITAL LETTER J WITH CROSSED-TAIL	{bgcolor:blue}&bull;{bgcolor}	
+A7B3	&#xA7B3;	uniA7B3	LATIN CAPITAL LETTER CHI	{bgcolor:blue}&bull;{bgcolor}	
+A7B4	&#xA7B4;	uniA7B4	LATIN CAPITAL LETTER BETA	{bgcolor:blue}&bull;{bgcolor}	
+A7B5	&#xA7B5;	uniA7B5	LATIN SMALL LETTER BETA	{bgcolor:blue}&bull;{bgcolor}	
+A7B6	&#xA7B6;	uniA7B6	LATIN CAPITAL LETTER OMEGA	{bgcolor:blue}&bull;{bgcolor}	
+A7B7	&#xA7B7;	uniA7B7	LATIN SMALL LETTER OMEGA	{bgcolor:blue}&bull;{bgcolor}	
+AB53	&#xAB53;	uniAB53	LATIN SMALL LETTER CHI	{bgcolor:blue}&bull;{bgcolor}	
 FB01	&#xFB01;	fi	LATIN SMALL LIGATURE FI		
 FB02	&#xFB02;	fl	LATIN SMALL LIGATURE FL		
 FFFD	&#xFFFD;	uniFFFD	REPLACEMENT CHARACTER	{bgcolor:blue}&bull;{bgcolor}	
