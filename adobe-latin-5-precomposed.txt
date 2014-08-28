@@ -1219,6 +1219,11 @@ A78C	&#xA78C;	uniA78C	LATIN SMALL LETTER SALTILLO	{bgcolor:blue}&bull;{bgcolor}
 A78D	&#xA78D;	uniA78D	LATIN CAPITAL LETTER TURNED H	{bgcolor:blue}&bull;{bgcolor}	
 A78E	&#xA78E;	uniA78E	LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT	{bgcolor:blue}&bull;{bgcolor}
 A7AA	&#xA7AA;	uniA7AA	LATIN CAPITAL LETTER H WITH HOOK	{bgcolor:blue}&bull;{bgcolor}	
+A7AB	&#xA7AB;	uniA7AB	LATIN CAPITAL LETTER REVERSED OPEN E	{bgcolor:blue}&bull;{bgcolor}	
+A7AC	&#xA7AC;	uniA7AC	LATIN CAPITAL LETTER SCRIPT G	{bgcolor:blue}&bull;{bgcolor}	
+A7AD	&#xA7AD;	uniA7AD	LATIN CAPITAL LETTER L WITH BELT	{bgcolor:blue}&bull;{bgcolor}	
+A7B0	&#xA7B0;	uniA7B0	LATIN CAPITAL LETTER TURNED K	{bgcolor:blue}&bull;{bgcolor}	
+A7B1	&#xA7B1;	uniA7B1	LATIN CAPITAL LETTER TURNED T	{bgcolor:blue}&bull;{bgcolor}	
 FB01	&#xFB01;	fi	LATIN SMALL LIGATURE FI		
 FB02	&#xFB02;	fl	LATIN SMALL LIGATURE FL		
 FFFD	&#xFFFD;	uniFFFD	REPLACEMENT CHARACTER	{bgcolor:blue}&bull;{bgcolor}	
