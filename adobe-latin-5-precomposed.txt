@@ -1059,7 +1059,7 @@ Unicode	Character	Glyph name	Character name	Added	Notes
 2018	&#x2018;	quoteleft	LEFT SINGLE QUOTATION MARK		
 2019	&#x2019;	quoteright	RIGHT SINGLE QUOTATION MARK		
 201A	&#x201A;	quotesinglbase	SINGLE LOW-9 QUOTATION MARK		
-201B	&#x201B;	quotereverse	SINGLE HIGH-REVERSED-9 QUOTATION MARK	{bgcolor:blue}&bull;{bgcolor}	
+201B	&#x201B;	quotereversed	SINGLE HIGH-REVERSED-9 QUOTATION MARK	{bgcolor:blue}&bull;{bgcolor}	
 201C	&#x201C;	quotedblleft	LEFT DOUBLE QUOTATION MARK		
 201D	&#x201D;	quotedblright	RIGHT DOUBLE QUOTATION MARK		
 201E	&#x201E;	quotedblbase	DOUBLE LOW-9 QUOTATION MARK		
