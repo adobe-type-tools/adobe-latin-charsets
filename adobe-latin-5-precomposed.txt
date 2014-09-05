@@ -1083,12 +1083,12 @@ Unicode	Character	Glyph name	Character name	Added	Notes
 2077	&#x2077;	seven.superior	SUPERSCRIPT SEVEN	
 2078	&#x2078;	eight.superior	SUPERSCRIPT EIGHT	
 2079	&#x2079;	nine.superior	SUPERSCRIPT NINE	
-207A	&#x207A;	uni207A	SUPERSCRIPT PLUS SIGN	{bgcolor:blue}&bull;{bgcolor}	
-207B	&#x207B;	uni207B	SUPERSCRIPT MINUS	{bgcolor:blue}&bull;{bgcolor}	
-207C	&#x207C;	uni207C	SUPERSCRIPT EQUALS SIGN	{bgcolor:blue}&bull;{bgcolor}	
+207A	&#x207A;	plus.superior	SUPERSCRIPT PLUS SIGN	{bgcolor:blue}&bull;{bgcolor}	
+207B	&#x207B;	minus.superior	SUPERSCRIPT MINUS	{bgcolor:blue}&bull;{bgcolor}	
+207C	&#x207C;	equal.superior	SUPERSCRIPT EQUALS SIGN	{bgcolor:blue}&bull;{bgcolor}	
 207D	&#x207D;	parenleft.superior	SUPERSCRIPT LEFT PARENTHESIS	
 207E	&#x207E;	parenright.superior	SUPERSCRIPT RIGHT PARENTHESIS	
-207F	&#x207F;	uni207F	SUPERSCRIPT LATIN SMALL LETTER N	
+207F	&#x207F;	n.superior	SUPERSCRIPT LATIN SMALL LETTER N	
 2080	&#x2080;	zero.inferior	SUBSCRIPT ZERO	
 2081	&#x2081;	one.inferior	SUBSCRIPT ONE	
 2082	&#x2082;	two.inferior	SUBSCRIPT TWO	
@@ -1101,9 +1101,9 @@ Unicode	Character	Glyph name	Character name	Added	Notes
 2089	&#x2089;	nine.inferior	SUBSCRIPT NINE	
 208D	&#x208D;	parenleft.inferior	SUBSCRIPT LEFT PARENTHESIS	
 208E	&#x208E;	parenright.inferior	SUBSCRIPT RIGHT PARENTHESIS	
-208A	&#x208A;	uni208A	SUBSCRIPT PLUS SIGN	{bgcolor:blue}&bull;{bgcolor}	
-208B	&#x208B;	uni208B	SUBSCRIPT MINUS	{bgcolor:blue}&bull;{bgcolor}	
-208C	&#x208C;	uni208C	SUBSCRIPT EQUALS SIGN	{bgcolor:blue}&bull;{bgcolor}	
+208A	&#x208A;	plus.inferior	SUBSCRIPT PLUS SIGN	{bgcolor:blue}&bull;{bgcolor}	
+208B	&#x208B;	minus.inferior	SUBSCRIPT MINUS	{bgcolor:blue}&bull;{bgcolor}	
+208C	&#x208C;	equal.inferior	SUBSCRIPT EQUALS SIGN	{bgcolor:blue}&bull;{bgcolor}	
 20A1	&#x20A1;	colonmonetary	COLON SIGN	
 20A3	&#x20A3;	franc	FRENCH FRANC SIGN	{bgcolor:blue}&bull;{bgcolor}	
 20A4	&#x20A4;	lira	LIRA SIGN	
