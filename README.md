@@ -60,6 +60,6 @@ Additional languages supported are: Bambara, Baule, Northern Berber languages (T
 
 For transliteration, it adds support for International Phonetic Association (IPA), Khmer, Mongolian, another Hindi scheme, pan-Athapaskan native American languages, and the Americanist Phonetic Alphabet (APA). Note that most of the added characters are actually supporting transliteration/phonetic needs.
 
-<sup>1</sup> Croatian(Latin) is already supported in AL-3. The digraphs (in practice never user) are included in AL-5.
+<sup>1</sup> Croatian(Latin) is already supported in AL-3. The digraphs (in practice never used) are included in AL-5.
 
 <sup>2</sup> Latin requires these characters **ĬĭŎŏ(Ŭŭ)**.
