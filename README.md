@@ -1,3 +1,18 @@
+### Notice
+
+These character sets are informative, not normative. They are guidelines.
+We reserve the right to update, modify, replace or withdraw them at any time without prior notice.
+
+The [Unicode](http://unicode.org/) standard is continually evolving, and for this reason these character sets are **not** *set in stone*.
+The likelihood of the larger charsets to be changed is greater than that of the smaller ones.
+For instance, it’s unlikely that AL1 or AL2 will ever change, but AL3 and above have changed since they were first defined — the original version of AL3 didn’t include the turkish lira nor the ruble.
+Also, a change in the smaller charsets naturally triggers a change in the larger ones.
+
+We consider AL5 an open-ended set. Additions to it may be the result of 1) changes in AL4 and below, 2) additions to Unicode that have a direct relationship to characters already supported, 3) requests and recommendations from external parties/sources, 4) internal decisions, and 5) eventual bug fixes.
+The AL1 thru AL4 sets are definitely less volatile and any changes to them go thru a stricter vetting process. Any new characters that we decide to support for which there’s no strong justification to attach to AL1-4 end up added to AL5.
+
+---
+
 # [Adobe Latin Character Sets](http://adobe-type-tools.github.io/adobe-latin-charsets)
 
 ## [Adobe Latin 1](http://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-1.html) (ISO-Adobe)
