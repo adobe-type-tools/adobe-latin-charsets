@@ -1,0 +1,3 @@
+Unicode(s)	Character(s)	Glyph name	Character name(s)	Added
+0047,0303	&#x0047;&#x0303;	uni00470303	LATIN CAPITAL LETTER G , COMBINING TILDE	&bull;
+0067,0303	&#x0067;&#x0303;	uni00670303	LATIN SMALL LETTER G , COMBINING TILDE	&bull;
