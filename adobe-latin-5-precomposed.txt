@@ -1112,11 +1112,11 @@ Unicode	Character	Glyph name	Character name	Added	Notes
 2087	&#x2087;	seven.inferior	SUBSCRIPT SEVEN
 2088	&#x2088;	eight.inferior	SUBSCRIPT EIGHT
 2089	&#x2089;	nine.inferior	SUBSCRIPT NINE
-208D	&#x208D;	parenleft.inferior	SUBSCRIPT LEFT PARENTHESIS
-208E	&#x208E;	parenright.inferior	SUBSCRIPT RIGHT PARENTHESIS
 208A	&#x208A;	plus.inferior	SUBSCRIPT PLUS SIGN	&bull;
 208B	&#x208B;	minus.inferior	SUBSCRIPT MINUS	&bull;
 208C	&#x208C;	equal.inferior	SUBSCRIPT EQUALS SIGN	&bull;
+208D	&#x208D;	parenleft.inferior	SUBSCRIPT LEFT PARENTHESIS
+208E	&#x208E;	parenright.inferior	SUBSCRIPT RIGHT PARENTHESIS
 20A1	&#x20A1;	colonmonetary	COLON SIGN
 20A3	&#x20A3;	franc	FRENCH FRANC SIGN	&bull;
 20A4	&#x20A4;	lira	LIRA SIGN
